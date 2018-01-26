@@ -1,4 +1,8 @@
-In this repo you will find my implementation of the Take Home Test.
+Name : Valentin Depoisier
+
+Mail : valentin.depoisier@gmail.com
+
+In this repo you will find my implementation of the Take Home Test in Python.
 
 # My best project
 
@@ -9,3 +13,15 @@ The target of my software was an ARM microcontroler that I programmed in C langa
 Moreover I used a real-time OS (QP Framework in this case) in my application in order to schedule the different tasks, for exemple drive the radio chip or react to external interrupt.
 
 Finally, I conceived the architecture of my application with UML (the architecture mainly consist of several finite state machines), I also documented the code with dOxygen and used Git for the version management.
+
+# How to run the TakeHomeTest files ?
+
+You can run the TakeHomeTest files within a terminal, please make sure Python 3 is installed on your computer. Type the lines below in your terminal :
+
+`python3 TakeHomeTest.py`
+
+
+`python3 UnitTest_TakeHomeTest.py`
+
+
+
